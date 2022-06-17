@@ -1,7 +1,7 @@
 import unittest
 
 
-class TestCase(unittest.TestCase):
+class TestClass(unittest.TestCase):
 
     def test_case_4(self):
         self.assertTrue('apple'.islower())
