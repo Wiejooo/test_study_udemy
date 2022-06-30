@@ -6,7 +6,7 @@ This is an Udemy course where I learned how to test software better.
     - Testing objectives
     - Causes for defects
     - Testing rules
-    - F.I.R.S.T
+    - F.I.R.S.T.
 2. Practical knowledge.
     - Unittest
     - Framework Unittest
